@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GameFolders/Scenes/RoomScenes/RoomScene.unity
+    guid: c9f2ccec019165d4c849d67264f14e75
+  - enabled: 1
+    path: Assets/GameFolders/Scenes/RoomScenes/UpstairsScene.unity
+    guid: 70e37856a85291e4c90a39105fa1a7b3
+  - enabled: 1
+    path: Assets/GameFolders/Scenes/RoomScenes/ComputerScene.unity
+    guid: 96bd5fef2b8f66c4ea69adf4ada99c6e
+  - enabled: 1
+    path: Assets/GameFolders/Scenes/ComputerGameScenes/GameMenuScene.unity
+    guid: b73a91a0840d6854ab6f462e4a02864f
+  - enabled: 1
+    path: Assets/GameFolders/Scenes/ComputerGameScenes/Level.unity
+    guid: 77f070c3a155808459fbe2808ebe6433
+  - enabled: 1
+    path: Assets/GameFolders/Scenes/ComputerGameScenes/BossScene.unity
+    guid: 977e146690758f04c881212515ce816f
+  - enabled: 1
+    path: Assets/GameFolders/Scenes/RoomScenes/ComputerSceneCopy.unity
+    guid: 02dffdc3a6fd8c04d9d305f4e812ce7a
+  - enabled: 1
+    path: Assets/GameFolders/Scenes/End.unity
+    guid: 78c94beb877d2414c81cf0260f34dbaf
+  - enabled: 1
+    path: Assets/GameFolders/Scenes/ComputerGameScenes/BossSceneCopy.unity
+    guid: 4a5bbd52fd18bd8448a8fa64fb492374
+  - enabled: 1
+    path: Assets/GameFolders/Scenes/End2.unity
+    guid: 1be3b85966743ee40a4b5ed5444c51ea
+  m_configObjects: {}
